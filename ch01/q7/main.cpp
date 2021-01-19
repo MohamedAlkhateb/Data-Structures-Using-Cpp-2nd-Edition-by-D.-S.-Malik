@@ -50,5 +50,5 @@ int main()
         }
     } while (!play.fair());
 
-    cout << "Fair" << endl;
+    cout << "Tie" << endl;
 }
