@@ -1,5 +1,5 @@
 #include <iostream>
-#include "../q1->q4/arrayListType.h"
+#include "../q1toq4/arrayListType.h"
 
 using namespace std;
 
